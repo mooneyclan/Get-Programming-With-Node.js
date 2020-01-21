@@ -12,7 +12,7 @@ _This repo is a collection of the work I will be completing for the book listed_
 ### Course Outline:
 
 Unit 0: Getting set up &check; <br>
-Unit 1: Getting started with Node.js <br>
+Unit 1: Getting started with Node.js &check; <br>
 Unit 2: Easier web development with Express.js <br>
 Unit 3: Connecting to a database <br>
 Unit 4: Building a user model <br>
