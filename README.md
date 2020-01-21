@@ -11,12 +11,12 @@ _This repo is a collection of the work I will be completing for the book listed_
 
 ### Course Outline:
 
-Section 0: Getting set up &check; <br>
-Section 1: Getting started with Node.js <br>
-Section 2: Easier web development with Express.js <br>
-Section 3: Connecting to a database <br>
-Section 4: Building a user model <br>
-Section 5: Authenticating user accounts <br>
-Section 6: Building an API <br>
-Section 7: Adding chat functionality <br>
-Section 8: Deploying and managing code in production <br>
+Unit 0: Getting set up &check; <br>
+Unit 1: Getting started with Node.js <br>
+Unit 2: Easier web development with Express.js <br>
+Unit 3: Connecting to a database <br>
+Unit 4: Building a user model <br>
+Unit 5: Authenticating user accounts <br>
+Unit 6: Building an API <br>
+Unit 7: Adding chat functionality <br>
+Unit 8: Deploying and managing code in production <br>
